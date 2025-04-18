@@ -21,4 +21,4 @@ Welcome to the official installer for **Draco Panel** and **Draco Daemon**, cust
 To install the **Draco Panel**, simply run this command:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/HimanshuPlayz/Draco-Panel/main/setup-panel.sh)
+bash <(curl -s https://raw.githubusercontent.com/HimanshuPlayz/Draco-Panel/main/setup.sh)
